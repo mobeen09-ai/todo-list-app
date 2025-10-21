@@ -43,5 +43,5 @@
     </div>
 
     <script src="SCRIP.JS"></script>
-</body>
+</body> 
 </html>
